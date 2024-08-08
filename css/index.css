@@ -74,7 +74,7 @@ header .send-notification .input-group{
     width: 30%;
     margin: auto;
     transform: translateY(30%);
-    box-shadow:none;
+    
 }
 
 header .send-notification .input-group button{
@@ -91,6 +91,7 @@ header .send-notification .input-group input{
     border: 2px solid #e6e6e6;
     font-size: 18px;
     text-align: right;
+    box-shadow:none;
 }
 
 .invalid-feedback {
