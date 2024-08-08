@@ -91,7 +91,7 @@ header .send-notification .input-group input{
     border: 2px solid #e6e6e6;
     font-size: 18px;
     text-align: right;
-    box-shadow:none;
+    box-shadow:none !immportant;
 }
 
 .invalid-feedback {
